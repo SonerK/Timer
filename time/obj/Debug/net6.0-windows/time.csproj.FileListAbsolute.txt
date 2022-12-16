@@ -1,0 +1,34 @@
+C:\Users\snrkt\source\repos\time\time\bin\Debug\net6.0-windows\time.exe
+C:\Users\snrkt\source\repos\time\time\bin\Debug\net6.0-windows\time.deps.json
+C:\Users\snrkt\source\repos\time\time\bin\Debug\net6.0-windows\time.runtimeconfig.json
+C:\Users\snrkt\source\repos\time\time\bin\Debug\net6.0-windows\time.dll
+C:\Users\snrkt\source\repos\time\time\bin\Debug\net6.0-windows\time.pdb
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.csproj.AssemblyReference.cache
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.Form1.resources
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.csproj.GenerateResource.cache
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.AssemblyInfoInputs.cache
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.AssemblyInfo.cs
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.csproj.CoreCompileInputs.cache
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.dll
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\refint\time.dll
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.pdb
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\time.genruntimeconfig.cache
+C:\Users\snrkt\source\repos\time\time\obj\Debug\net6.0-windows\ref\time.dll
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\bin\Debug\net6.0-windows\time.exe
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\bin\Debug\net6.0-windows\time.deps.json
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\bin\Debug\net6.0-windows\time.runtimeconfig.json
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\bin\Debug\net6.0-windows\time.dll
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\bin\Debug\net6.0-windows\time.pdb
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.csproj.AssemblyReference.cache
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.Form1.resources
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.csproj.GenerateResource.cache
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.AssemblyInfoInputs.cache
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.AssemblyInfo.cs
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.csproj.CoreCompileInputs.cache
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.dll
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\refint\time.dll
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.pdb
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\time.genruntimeconfig.cache
+C:\Users\snrkt\Desktop\bilgisayar programcılığı\BİLGİSAYAR PROGRAMCILIĞI 1. SINIF2. DÖNEM\GÖRSEL PROGRAMLAMA\time\time\obj\Debug\net6.0-windows\ref\time.dll
